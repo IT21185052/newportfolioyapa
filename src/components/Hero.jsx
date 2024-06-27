@@ -81,7 +81,7 @@ const Hero = () => {
         </motion.h4>
 
           
-          <a href="Software Engineering Intern-Resume.pdf" download="Dhananjaya Yapa Software Engineering Intern Resume.pdf">
+          <a href="Software Engineering Intern-Resume.pdf" download="Software Engineering Intern-Resume.pdf">
                 <motion.button className="btn-primary "initial={{x: 100, opacity:0}} whileInView={{x:0,opacity:1}} transition={{delay:0.2,x:{type:"spring",stiffness:60},opacity:{duration:1},ease:"easeIn",duration:1,}}>Download CV</motion.button>
               </a>
           
